@@ -9,3 +9,5 @@
     - sudo mkdir sbin
     - sudo chown -R $(whoami) $(brew --prefix)/*
     - brew link hadoop (yourPackageName)
+    - cd /usr/local/Cellar/hadoop/3.1.2/libexec/etc/hadoop/
+    
